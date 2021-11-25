@@ -1,0 +1,73 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    scrollbar-color: black;
+    font-size: 18px;
+}
+body{
+    background: grey;
+}
+nav{
+    background-color: rgb(85, 85, 85);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right:10px;
+    padding-left:0px;
+}
+.Head{
+    font-size: 50px;
+}
+.btn-01{
+    display: inline-block;
+    background-color: rgb(50, 50, 201);
+    padding: 10px;
+    transition: all 0.5s ease;
+    position: relative;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+.btn-01:hover{
+    text-decoration: none;
+    background-color: rgb(111, 111, 250);
+}
+.ende{
+    background-color:rgba(31, 105, 173, 0.2);
+    size-adjust: 10px;
+    display: inline-flexbox;
+    margin-bottom: 0px;
+    margin-top: 00px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.ende a{
+    text-decoration: none;
+    color: black;
+}
+.ende a:hover{
+    font-size: 25px;
+    color: rgb(98, 98, 243);
+    transition: 200ms;
+}
+.youtube{
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-right:1500px;
+    background-color: red;
+    padding:10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.youtube a{
+    text-decoration: none;
+    color:black;
+}
+.youtube a:hover{
+    color:rgb(65, 216, 196)
+}
+.btn-logo-01{
+    font-size: 100px;
+}
