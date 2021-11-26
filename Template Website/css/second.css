@@ -39,3 +39,22 @@ body{
     background: rgb(110, 110, 238);
     font-size: 20px;
 }
+.ende{
+    background: rgb(105, 105, 105.2);
+     size-adjust: 10px;
+     display: inline-flexbox;
+     margin-bottom: 0px;
+     margin-top: 00px;
+     text-align: center;
+     padding-bottom: 10px;
+     font-size: 18px;
+ }
+ .ende a{
+     text-decoration: none;
+     color: black;
+ }
+ .ende a:hover{
+     font-size: 25px;
+     color: rgb(98, 98, 243);
+     transition: 200ms;
+ }

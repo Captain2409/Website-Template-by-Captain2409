@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
     scrollbar-color: black;
-    font-size: 18px;
+  
 }
 body{
     background: grey;
@@ -35,13 +35,14 @@ nav{
     background-color: rgb(111, 111, 250);
 }
 .ende{
-    background-color:rgba(31, 105, 173, 0.2);
+   background: rgb(105, 105, 105.2);
     size-adjust: 10px;
     display: inline-flexbox;
     margin-bottom: 0px;
     margin-top: 00px;
     text-align: center;
     padding-bottom: 10px;
+    font-size: 18px;
 }
 .ende a{
     text-decoration: none;
@@ -53,13 +54,15 @@ nav{
     transition: 200ms;
 }
 .youtube{
-    margin-left: 100px;
     padding-top: 10px;
-    margin-right:1500px;
     background-color: red;
-    padding:10px;
     text-align: center;
     border-radius: 20px;
+    float: left;
+    position: absolute;
+    margin-left: 400px;
+    margin-right: 1500px;
+    
 }
 .youtube a{
     text-decoration: none;
@@ -70,4 +73,53 @@ nav{
 }
 .btn-logo-01{
     font-size: 100px;
+}
+.btn-logo-02{
+    font-size: 100px;
+    color: black;
+}
+.btn-logo-02:hover{
+    color:rgb(65, 216, 196)
+}
+.Twitch{
+    background-color: blueviolet;
+    padding-top: 10px;
+    border-radius: 20px;
+    text-align: center;
+    float: right;
+    margin-left: 1500px;
+    margin-right: 400px;
+    color: black;
+}
+.Insta{
+    margin-top: 550px;
+    background-color: rgb(158, 25, 199);
+    text-align: center;
+    border-radius: 20px;
+    float: left;
+    position: absolute;
+    margin-left: 400px;
+    margin-right: 1500px;
+    padding-top: 10px;
+}
+.TikTok{
+    margin-top: 550px;
+    background-color: rgb(218, 15, 140);
+    text-align: center;
+    border-radius: 20px;
+    float: right;
+    position: absolute;
+    margin-left: 1500px;
+    margin-right: 400px;
+    padding-top: 10px;
+}
+.vollcool{
+   padding-top: 20px;
+    font-size: 20px;
+}
+#kek{
+ 
+}
+.jjjjjj{
+    margin-top: 1100px;
 }
