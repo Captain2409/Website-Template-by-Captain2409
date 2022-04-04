@@ -5,5 +5,5 @@ If you edit the copyright tag at the footer than please link my Github or discor
 For help join my discord
 https://discord.gg/FcK4zFzbPH
 
-2021 Kilo´s Development. All Right´s Reserved sadwda
+2021 Kilo´s Development. All Right´s Reserved 
 
